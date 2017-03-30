@@ -10,11 +10,19 @@ Applications are ultimately just tools. What problem or question does
 your application attempt to resolve or grapple with? How does your
 application speak to this problem/question?
 
+KB: I propose developing an application that visualizes demographic panel data of one province (or more) in Afghanistan.
+Afghanistan contains an incredibly diverse population that has been subject to a myriad of exogenous shocks over the past year.
+I would like to attempt to visualize the story of a changing Afghan population.
+
 ## The data
 
 Geospatial applications are all about working with data. What datasets
 would you plan/like to use? If the data you'll be working with isn't
 already stored in a way that you can use, how will you be storing your data?
+
+KB: I've been compiling a dataset of survey data from across the country that contains demographic and public opinion variables since 2011.
+I have a .csv file with more than 40,000 settlement coordinates to merge with the survey data. I will need to be judicious with the variables
+I select so that I can succiently tell the emerging story, which remains to be known.  
 
 ## Technologies used
 
